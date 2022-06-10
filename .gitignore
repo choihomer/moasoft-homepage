@@ -1,0 +1,5 @@
+moa-client/node_modules
+moa-server/node_modules
+
+/node_modules
+moa-server/routes/sqlConfig.js
